@@ -6,10 +6,10 @@
 
 | Repository                                                                             | Description                                                                                                | Stack                |
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [`inspire`](https://github.com/tech-inspire/inspire)                                   | Modern Vue 3 + TypeScript SPA inspired by Pinterest to add and search images | Vue 3, TypeScript, Vite  |
-| [`backend`](https://github.com/tech-inspire/backend)                                   | Micro‑service backend powering auth, embeddings, posts and search, built for horizontal scaling.           | Go, Python, ScyllaDB, PostgreSQL, Redis       |
+| [`inspire`](https://github.com/tech-inspire/inspire)                                   | Inspire Frontend. Modern Vue 3 + TypeScript SPA | Vue 3, TypeScript, Vite  |
+| [`backend`](https://github.com/tech-inspire/backend)                                   | Micro‑service backend for Inspire      | Go, Python, ScyllaDB, PostgreSQL, Redis       |
 | [`api-contracts`](https://github.com/tech-inspire/api-contracts)                       | Single source of truth for our Protobuf/ConnectRPC APIs with generated Go, TypeScript & Python clients.    | GRPC, ConnectRPC     |
-| [`scylladb-cluster-example`](https://github.com/tech-inspire/scylladb-cluster-example) | Out‑of‑the‑box five‑node ScyllaDB cluster with Prometheus + Grafana dashboards for local dev.              | Docker, ScyllaDB |
+| [`scylladb-cluster-example`](https://github.com/tech-inspire/scylladb-cluster-example) | ScyllaDB cluster example              | Docker, ScyllaDB |
 
 ## Community & Support
 
