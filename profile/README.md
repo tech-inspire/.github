@@ -10,6 +10,7 @@
 | [`backend`](https://github.com/tech-inspire/backend)                                   | Micro‑service backend for Inspire      | Go, Python, ScyllaDB, PostgreSQL, Redis       |
 | [`api-contracts`](https://github.com/tech-inspire/api-contracts)                       | Single source of truth for our Protobuf/ConnectRPC APIs with generated Go, TypeScript & Python clients.    | GRPC, ConnectRPC     |
 | [`scylladb-cluster-example`](https://github.com/tech-inspire/scylladb-cluster-example) | ScyllaDB cluster example              | Docker, ScyllaDB |
+| [`mcp-server`](https://github.com/tech-inspire/mcp-server) | Model Context Protocol server for images search using Inspire backend. Claude Dekstop ready               | Node |
 
 ## Community & Support
 
